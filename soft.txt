@@ -1,0 +1,48 @@
+  necessary applications:-
+
+servers:
+1.tomcat 
+
+ide:
+2.eclipse
+3.sts
+
+hiperviser:
+4.virtual box
+
+browser:
+5.firefox 
+
+Source code mgmt tool:
+6.git 
+7.svn ,tortoise svn
+
+databases:
+8.mysql
+9.oracle
+
+buildtool:
+10.maven 
+
+utility :
+11.powerIso,
+12.winRar,teamviewer,msoffice
+
+Driver :
+13.Acer Bio Protection_MC3000U_V5.0.2.0
+Wireless LAN_Intel_19.60.0_W10x64_A
+VGA_NVIDIA_381.99_W10x64_A
+VGA_Intel_23.20.16.5038_W10x64_A
+VGA_Intel_22.20.16.4771_W10x64_A
+VGA_Intel_22.20.16.4691_W10x64_A
+Quick Access_Acer_2.01.3013_W10x64_A
+IRST_Intel_15.7.0.1014_W10x64_A
+IO Drivers_Intel_30.100.1713.2_W10x64_A
+Fingerprint_EGISTEC_3.5.3.10_W10x64_A
+Chipset_Intel_10.1.1.44_W10x64_A
+CardReader_Realtek_10.0.15063.31235_W10x64_A
+Bluetooth_Intel_19.60.0_W10x64_A
+BIOS_Acer_1.08_A_A
+Audio_Realtek_6.0.1.8224_W10x64_A
+AMT_Intel_11.7.0.1028_W10x64_A
+
